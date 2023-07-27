@@ -34,3 +34,5 @@ To use this contract, you need to deploy it to the Ethereum blockchain using a d
 **Disclaimer:**
 
 This README file is for informational purposes only and does not constitute financial or investment advice. Use this contract at your own risk, and always exercise caution when dealing with smart contracts and digital assets.
+# Author 
+Jaya Singh
